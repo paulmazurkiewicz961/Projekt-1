@@ -1,0 +1,15 @@
+.container {
+  width: 960px;
+  font-family: 'Grand Hotel', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  color: white;
+  height: 50px;
+  font-size: 18  px;
+}
+
+h1 {
+  background-color: #4e4e4e;
+}
